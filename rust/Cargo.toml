@@ -1,0 +1,5 @@
+[package]
+
+name = "is_prime"
+version = "0.0.1"
+authors = ["Michael Akopov <makopov@gmail.com>"]
